@@ -14,4 +14,4 @@ https://ibb.co/Cwj9JM7
 Preview of Invoice here >>>
 
 
-[url=https://ibb.co/hKjPnzJ][img]https://i.ibb.co/30qD8Z9/Invoice-No-XE42892-1.jpg[/img][/url]
+<a href="https://ibb.co/hKjPnzJ"><img src="https://i.ibb.co/30qD8Z9/Invoice-No-XE42892-1.jpg" alt="Invoice-No-XE42892-1" border="0"></a>
